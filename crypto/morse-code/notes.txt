@@ -1,0 +1,5 @@
+online decoders give us this: 
+
+WH47 H47H 90D W20U9H7
+
+picoCTF{wh47_h47h_90d_w2ou9h7}

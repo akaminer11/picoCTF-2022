@@ -1,0 +1,5 @@
+user: cultiris
+
+The first user in usernames.txt corresponds to the first password in passwords.txt. The second user corresponds to the second password, and so on.
+
+User number 378
