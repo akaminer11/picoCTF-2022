@@ -1,0 +1,6 @@
+password: postgres
+
+
+
+SELECT * FROM flags WHERE id IS NOT NULL;
+

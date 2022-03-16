@@ -1,0 +1,5 @@
+first though mirror: wget -mkxKE -e robots=off http://www.example.org/
+
+url: http://saturn.picoctf.net:61481/
+
+no need to bother. just go through the files
