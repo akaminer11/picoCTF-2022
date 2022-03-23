@@ -1,0 +1,5 @@
+super tedious reversing. Every letter was the index of a string and functions are named obnoxiously
+
+
+picoCTF{d30bfu5c4710n_f7w_b8062eec}
+

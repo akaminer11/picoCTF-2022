@@ -1,0 +1,4 @@
+unpacked, then same as bbbloat. Easy dub.
+
+picoCTF{up><_m3_f7w_77ad107e}
+

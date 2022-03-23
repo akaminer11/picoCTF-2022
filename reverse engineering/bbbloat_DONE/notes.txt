@@ -1,0 +1,1 @@
+decompiled with ghidra and it gave me the number in the main func
